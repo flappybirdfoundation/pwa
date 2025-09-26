@@ -1,0 +1,18 @@
+{
+  "name": "Flappy Bird for Windows",
+  "short_name": "Flappy Bird",
+  "description": "Flappy Bird is now on the Microsoft Store! Tap or Click to flap through a world of pipes to get the highest score possible!",
+  "lang": "en",
+  "orientation": "portrait",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "appicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
