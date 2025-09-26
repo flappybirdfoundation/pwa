@@ -1,7 +1,7 @@
 {
-  "name": "Flappy Bird for Windows",
+  "name": "Flappy Bird for AppGallery",
   "short_name": "Flappy Bird",
-  "description": "Flappy Bird is now on the Microsoft Store! Tap or Click to flap through a world of pipes to get the highest score possible!",
+  "description": "Flappy Bird is now on the Huawei AppGallery Store! Tap to flap through a world of pipes to get the highest score possible!",
   "lang": "en",
   "orientation": "portrait",
   "start_url": ".",
