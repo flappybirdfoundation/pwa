@@ -1,7 +1,7 @@
 {
-  "name": "Flappy Bird for Huawei",
+  "name": "Flappy Bird for KaiOS",
   "short_name": "Flappy Bird",
-  "description": "Flappy Bird is now on the Huawei AppGallery Store! Tap to flap through a world of pipes to get the highest score possible!",
+  "description": "(NOTE: an internet connection is required to play) Flappy Bird is now on KaiOS systems! Press OK to Flap and get a new High score!",
   "lang": "en",
   "orientation": "portrait",
   "start_url": ".",
